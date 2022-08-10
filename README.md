@@ -1,4 +1,4 @@
-# HTML-course-git Development
+# HTML-course-git Production
 Youtube HTML course I followed
 
 The problem I was facing was not directly a coding issue but more of a life choice problem.
